@@ -18,11 +18,14 @@
 <br />
 <br />
 
-I have been a Full Stack Developer with 4+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+
+I am a Software Engineer with over 5 years of experience and have worked on projects of large and small scale for established companies and startups. I see programming languages as tools to get the job done... So I have employed the use of many when needed.
+Secret: **Rust is my favorite**
 
 <br />
 
-I am currently transitioning into the Web3 space to become a SMART solidty contract developer specialized on DEFI smart contract development. I am a smart security enthusiast :)
+I am currently a SMART CONTRACT developer, working with Rust, Ink!, Solidity, and Yul. I specialized in writing Smart Contract for DeFI and I have a flare for security.
+My end Goal is to become a Rust core protocol developer (Substrate Runtime Engineer @ ParityTech).... Trust me, I am working towards it :)
 
 <br />
 
