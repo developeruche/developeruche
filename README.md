@@ -24,15 +24,14 @@ Secret: **Rust is my favorite**
 
 <br />
 
-I am currently a SMART CONTRACT developer, working with Rust, Ink!, Solidity, and Yul. I specialized in writing Smart Contract for DeFI and I have a flare for security.
-My end Goal is to become a Rust core protocol developer (Substrate Runtime Engineer @ ParityTech).... Trust me, I am working towards it :)
+I build with Rust, Ink!, Solidity, Typescript and Yul. 
+
+__ Distributed System and Cryptography gives me the adrenaline::ceil() -> Result<Impact, Infallible>; __
 
 <br />
 
-I'm currently based in Lagos, Nigeria.
-
 <br />
-I love and enjoy learning new techs and using new tools. I also love listening to music while coding, it gives me that vibe...
+
 <br />
 <br />
 
@@ -41,13 +40,6 @@ Ask me anything **[here](http://developeruche.com)** or <a href="mailto:develope
 <br />
 <br />
 
-
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeruche&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
 
 **The Learning Never ends!** 😊
 
