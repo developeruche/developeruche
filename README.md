@@ -6,10 +6,7 @@
 <a href="https://twitter.com/developeruche" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/developeruche" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://developeruche.hashnode.dev" target="_blank">
+<a href="https://medium.com/@developeruche" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
 <br />
@@ -19,12 +16,9 @@
 <br />
 
 
-I am a Software Engineer with over 5 years of experience and have worked on projects of large and small scale for established companies and startups. I see programming languages as tools to get the job done... So I have employed the use of many when needed.
-Secret: **Rust is my favorite**
-
 <br />
 
-I build with Rust, Ink!, Solidity, Typescript and Yul. 
+ZK, Rust, Substrate, EVM, and Solidity. 🧘‍♂️
 
 __ Distributed System and Cryptography gives me the adrenaline::ceil() -> Result<Impact, Infallible>; __
 
